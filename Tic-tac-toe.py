@@ -87,7 +87,7 @@ def replay():
 
 #10 Main part to start the game 
 
-print('Abhishek Welcomes you to play TIC-TAC-TOE Game ! ')
+print('Refresh yourself by playing this awesome game - TIC-TAC-TOE Game ! ')
 
 while True:
   theBoard = [' ']*10

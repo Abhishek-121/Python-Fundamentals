@@ -1,4 +1,4 @@
- //This is a coffee machine project developed under jetbrains academy.
+#This is a coffee machine project developed under jetbrains academy.
 #  Method 1 : By Using Simple functions and if-else conditions
    
 # water = 400
